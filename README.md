@@ -45,12 +45,13 @@ O Pokedex App é uma aplicação web interativa desenvolvida com React que utili
 ## Imagens: 🖼️
 Aqui estão algumas imagens do projeto em execução: 
 
-![Captura de tela 2025-03-30 193831](https://github.com/user-attachments/assets/5b7f15f0-9600-42cf-9c74-dbbf483c0f95)
-![Captura de tela 2025-03-30 203550](https://github.com/user-attachments/assets/65070056-71f9-4b0c-84a7-dd9d33d56395)
-![Captura de tela 2025-03-30 203620](https://github.com/user-attachments/assets/4328c392-ab9f-401f-956f-4eb1517c98db)
-![Captura de tela 2025-03-30 193820](https://github.com/user-attachments/assets/65c8f725-0809-4451-bb68-687fd44c7eed)
-![Captura de tela 2025-03-30 203610](https://github.com/user-attachments/assets/b7170bf7-ae14-432e-a1e4-bb798eeacbca)
-![Captura de tela 2025-03-30 203506](https://github.com/user-attachments/assets/e150b226-0039-472a-a25b-1384eae8133b)
+![Captura de tela 2025-03-30 203506](https://github.com/user-attachments/assets/47579e04-6940-4c40-9f7d-75700ce6bc1c)
+
+![Captura de tela 2025-03-30 203550](https://github.com/user-attachments/assets/38bae853-e273-4793-b457-6447ea963642)
+
+![Captura de tela 2025-03-30 203620](https://github.com/user-attachments/assets/8f856469-6d43-4809-80c3-ffd1638cbe2b)
+
+![Captura de tela 2025-03-30 203700](https://github.com/user-attachments/assets/039ee6c5-5021-41b5-a21e-f1695ca2650e)
 
 
  ## Estrutura do Projeto: 🚀
