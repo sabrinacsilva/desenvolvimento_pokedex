@@ -1,4 +1,4 @@
-# Jogo Pokedex
+# Pokedex React App
 
 ## Descrição  ✅ 
 Este é um projeto desenvolvido com React que utiliza uma PokeAPI para exibir uma Pokédex interativa. O aplicativo permite a busca, visualização de detalhes e rolagem infinita de Pokémons, além de sugerir pokémons automaticamente conforme o usuário digital na barra de pesquisa. O modal exibe informações detalhadas sobre o Pokémon, incluindo tipos, altura, peso e descrição.
