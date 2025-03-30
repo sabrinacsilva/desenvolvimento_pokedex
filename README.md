@@ -3,7 +3,7 @@
 ## Descrição  ✅ 
 Este é um projeto de Pokédex desenvolvido em React. Ele permite visualizar informações sobre diversos Pokémon, incluindo nomes, imagens e atributos.
 
-🔗 **Veja o projeto em ação:** https://kkk-six-sooty.vercel.app/
+🔗 **Veja o projeto em ação:** 
 
 ## Tecnologias Utilizadas 🛠
 - React.js
