@@ -17,15 +17,6 @@ Este é um projeto desenvolvido com React que utiliza uma PokeAPI para exibir um
 - Node.js instalado
 - Gerenciador de pacotes npm ou yarn
 
-  ## Estrutura do Projeto: 🚀
-- `public/`: Contém arquivos estáticos
-- `src/`: Contém o código-fonte principal
-  - `components/`: Componentes reutilizáveis
-  - `pages/`: Páginas do aplicativo
-  - `services/`: Serviços para consumo de API
-  - `styles/`: Arquivos de estilização
-  - `routes/`: Configuração das rotas do aplicativo
-
 ### Passos:🎯
 1. Clone este repositório:
    ```sh
@@ -59,5 +50,12 @@ Aqui estão algumas imagens do projeto em execução:
 
 ![Captura de tela 2025-03-30 193820](https://github.com/user-attachments/assets/65c8f725-0809-4451-bb68-687fd44c7eed)
 
-
+ ## Estrutura do Projeto: 🚀
+- `public/`: Contém arquivos estáticos
+- `src/`: Contém o código-fonte principal
+  - `components/`: Componentes reutilizáveis
+  - `pages/`: Páginas do aplicativo
+  - `services/`: Serviços para consumo de API
+  - `styles/`: Arquivos de estilização
+  - `routes/`: Configuração das rotas do aplicativo
 
