@@ -1,6 +1,5 @@
 # Pokedex React App ✅ 
 
-## Descrição: 📝
 O Pokedex App é uma aplicação web interativa desenvolvida com React que utiliza a PokeAPI para exibir uma Pokédex dinâmica. O aplicativo permite pesquisar e explorar Pokémons, oferecendo rolagem infinita e sugestões automáticas à medida que o usuário digita na barra de pesquisa. Além disso, um modal exibe informações detalhadas, como tipos, altura, peso e descrição de cada Pokémon, proporcionando uma experiência intuitiva e imersiva para fãs de todas as idades.
 
 🔗 Veja o projeto em ação: http://localhost:3001/details/squirtle
